@@ -1,0 +1,14 @@
+D:\KAAM\Visual Programming\Estimate\Estimate\bin\Debug\Estimate.exe.config
+D:\KAAM\Visual Programming\Estimate\Estimate\bin\Debug\Estimate.exe
+D:\KAAM\Visual Programming\Estimate\Estimate\bin\Debug\Estimate.pdb
+D:\KAAM\Visual Programming\Estimate\Estimate\bin\Debug\Estimation.dll
+D:\KAAM\Visual Programming\Estimate\Estimate\bin\Debug\Estimation.pdb
+D:\KAAM\Visual Programming\Estimate\Estimate\obj\Debug\Estimate.csproj.AssemblyReference.cache
+D:\KAAM\Visual Programming\Estimate\Estimate\obj\Debug\Estimate.csproj.SuggestedBindingRedirects.cache
+D:\KAAM\Visual Programming\Estimate\Estimate\obj\Debug\Estimate.Form1.resources
+D:\KAAM\Visual Programming\Estimate\Estimate\obj\Debug\Estimate.Properties.Resources.resources
+D:\KAAM\Visual Programming\Estimate\Estimate\obj\Debug\Estimate.csproj.GenerateResource.cache
+D:\KAAM\Visual Programming\Estimate\Estimate\obj\Debug\Estimate.csproj.CoreCompileInputs.cache
+D:\KAAM\Visual Programming\Estimate\Estimate\obj\Debug\Estimate.csproj.CopyComplete
+D:\KAAM\Visual Programming\Estimate\Estimate\obj\Debug\Estimate.exe
+D:\KAAM\Visual Programming\Estimate\Estimate\obj\Debug\Estimate.pdb

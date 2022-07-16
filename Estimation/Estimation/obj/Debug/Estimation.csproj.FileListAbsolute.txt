@@ -1,0 +1,6 @@
+D:\KAAM\Visual Programming\Estimation\Estimation\bin\Debug\Estimation.dll
+D:\KAAM\Visual Programming\Estimation\Estimation\bin\Debug\Estimation.pdb
+D:\KAAM\Visual Programming\Estimation\Estimation\obj\Debug\Estimation.csproj.AssemblyReference.cache
+D:\KAAM\Visual Programming\Estimation\Estimation\obj\Debug\Estimation.csproj.CoreCompileInputs.cache
+D:\KAAM\Visual Programming\Estimation\Estimation\obj\Debug\Estimation.dll
+D:\KAAM\Visual Programming\Estimation\Estimation\obj\Debug\Estimation.pdb
